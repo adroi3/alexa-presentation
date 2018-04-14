@@ -1,0 +1,5 @@
+- Erstellen von Skill -> Deutsche Sprache verwenden
+- Custom model
+- Meistens Yes/No Intent sinnvoll hinzufügen
+
+-Ist auch möglich aws lambda usw. zu verwenden
