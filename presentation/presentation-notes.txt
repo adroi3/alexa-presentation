@@ -1,0 +1,4 @@
+- Erstellen von Skill -> Deutsche Sprache verwenden
+- Custom model
+- Meistens Yes/No Intent hinzufügen sinnvoll
+- Beim Einstellen vom Endpoint Appnamen mit Slash hintendran
